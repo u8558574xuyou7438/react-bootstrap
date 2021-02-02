@@ -63,7 +63,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.2",
     "@restart/context": "^2.1.4",
-    "@restart/hooks": "^0.3.21",
+    "@restart/hooks": "^0.3.26",
     "@types/classnames": "^2.2.10",
     "@types/invariant": "^2.2.33",
     "@types/prop-types": "^15.7.3",
