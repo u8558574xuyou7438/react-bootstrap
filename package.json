@@ -61,7 +61,7 @@
     "trailingComma": "all"
   },
   "dependencies": {
-    "@babel/runtime": "^7.4.2",
+    "@babel/runtime": "^7.26.10",
     "@restart/context": "^2.1.4",
     "@restart/hooks": "^0.3.21",
     "@types/classnames": "^2.2.10",
@@ -77,7 +77,7 @@
     "prop-types-extra": "^1.1.0",
     "react-overlays": "^4.1.0",
     "react-transition-group": "^4.4.1",
-    "uncontrollable": "^7.0.0",
+    "uncontrollable": "^8.0.0",
     "warning": "^4.0.3"
   },
   "devDependencies": {
